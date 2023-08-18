@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "vite:clear": "rmdir /s /q public\\build"
+    },
+    "devDependencies": {
+        "@alpinejs/focus": "^3.10.5",
+        "@tailwindcss/forms": "^0.5.2",
+        "@tailwindcss/typography": "^0.5.0",
+        "alpinejs": "^3.0.6",
+        "autoprefixer": "^10.4.7",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.8",
+        "postcss": "^8.4.14",
+        "tailwindcss": "^3.1.0",
+        "vite": "^4.3.9"
+    },
+    "dependencies": {
+        "laravel-echo": "^1.15.1",
+        "socket.io-client": "^4.6.2"
+    }
+}
