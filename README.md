@@ -11,11 +11,7 @@ Web aplikasi untuk dashboard admin dari aplikasi berisikan fitur
 # Tools
 <div>
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel"/>
-</div>
-<div>
     <img src="https://jetstream.laravel.com/logo.svg" alt="jetstream"/>
-</div>
-<div>
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss"/>
 </div>
 
